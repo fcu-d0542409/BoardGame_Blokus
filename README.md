@@ -8,14 +8,18 @@
 
 
 ## Basic Roles
-- The blocks in the same color can only touch angle by angle instead of side by side. The following is some of correct putting operations. 
-  ![image](https://user-images.githubusercontent.com/32485341/125181516-1d25e200-e238-11eb-9bda-c111956ef7c0.png) ![image](https://user-images.githubusercontent.com/32485341/125181474-9bce4f80-e237-11eb-91e4-b133f4733f27.png) ![image](https://user-images.githubusercontent.com/32485341/125181499-f1a2f780-e237-11eb-8860-f6ffdc2a7272.png)
+1. The blocks in the same color can only touch angle by angle instead of side by side. 
+    - The following are some type of correct putting operations. 
+      - ![image](https://user-images.githubusercontent.com/32485341/125181516-1d25e200-e238-11eb-9bda-c111956ef7c0.png) ![image](https://user-images.githubusercontent.com/32485341/125181474-9bce4f80-e237-11eb-91e4-b133f4733f27.png) ![image](https://user-images.githubusercontent.com/32485341/125181499-f1a2f780-e237-11eb-8860-f6ffdc2a7272.png)
+    - By contrast, below is an example with illegal putting operation.
+      - ![image](https://user-images.githubusercontent.com/32485341/125181594-c66cd800-e238-11eb-8c12-95d5932a3552.png)
+
+2.  The position where blocks is put needs to touch at least one of the same color blocks.
+    - There is an coomon place of blocks on the checkboard. The __blue__ positions are some __attaching points__ which could be attach by the next putting blocks.
+      - ![image](https://user-images.githubusercontent.com/32485341/125181741-90c8ee80-e23a-11eb-9799-436cfd5f9572.png)
 
 
-
-- The position where blocks is put needs to touch at least one of the same color blocks.
-
-
+## Demo 
 https://user-images.githubusercontent.com/32485341/125150562-43ce1500-e173-11eb-9a99-020676d8f436.mp4
 
 ``` python
