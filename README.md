@@ -10,7 +10,7 @@
 ## Basic Roles
 1. The blocks in the same color can only touch angle by angle instead of side by side. 
     - The following are some type of correct putting operations. 
-      - ![image](https://user-images.githubusercontent.com/32485341/125181516-1d25e200-e238-11eb-9bda-c111956ef7c0.png) ![image](https://user-images.githubusercontent.com/32485341/125181474-9bce4f80-e237-11eb-91e4-b133f4733f27.png) ![image](https://user-images.githubusercontent.com/32485341/125181499-f1a2f780-e237-11eb-8860-f6ffdc2a7272.png)
+      - ![image](https://user-images.githubusercontent.com/32485341/125181516-1d25e200-e238-11eb-9bda-c111956ef7c0.png)     ![image](https://user-images.githubusercontent.com/32485341/125181474-9bce4f80-e237-11eb-91e4-b133f4733f27.png)     ![image](https://user-images.githubusercontent.com/32485341/125181499-f1a2f780-e237-11eb-8860-f6ffdc2a7272.png)
     - By contrast, below is an example with illegal putting operation.
       - ![image](https://user-images.githubusercontent.com/32485341/125181594-c66cd800-e238-11eb-8c12-95d5932a3552.png)
 
