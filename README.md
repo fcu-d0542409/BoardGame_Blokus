@@ -1,7 +1,7 @@
 # BoardGame - Blokus
 ## Introduction
 - Blokus is the fast-paced strategy game that provides players a great experience with brainstorming, which has been invented in Germany in 2000.
-- Related Documents: https://service.mattel.com/instruction_sheets/BJV44-Eng.pdf
+- Documents: https://service.mattel.com/instruction_sheets/BJV44-Eng.pdf
 - In following, I will show you how __design thinking__ of my algorithm in Blokus. 🧠🧠🧠
   ![image](https://user-images.githubusercontent.com/32485341/125181265-c61f0d80-e235-11eb-97c9-f5197b29b3de.png)
   ![image](https://user-images.githubusercontent.com/32485341/125181387-c7046f00-e236-11eb-9da6-71198f18e3cd.png)
