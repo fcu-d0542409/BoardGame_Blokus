@@ -25,7 +25,3 @@
 ``` python
 print('hello')
 ```
-- a
-- b
-- c
-🐥 // :+?
